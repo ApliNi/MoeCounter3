@@ -1,2 +1,2 @@
-# MoeCounter3
-我为什么要再写一个 (
+# MoeCounter Node.JS
+比PHP版本性能更好的 MoeCounter.

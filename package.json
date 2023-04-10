@@ -1,0 +1,15 @@
+{
+  "name": "moecounter3",
+  "version": "1.0.0",
+  "description": "我为什么要再写一个 (",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ApliNi",
+  "license": "MIT license",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
